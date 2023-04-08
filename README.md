@@ -12,5 +12,6 @@ this repo is for my reading notes for the 401 course at ASAC, it will contain al
 | The Growth Mindset             | [notes](./the-growth-mindset.md) |
 | Data Structures and Algorithms | [notes](./data-structures-and-algorithms.md) |
 | Engineering Readings           | [notes](./engineering-readings.md) |
+| SQL Practice                   | [notes](./sql-practice.md) |
 | Class 01                       | [notes](./class-01.md) |
 | Class 02                       | [notes](./class-02.md) |
