@@ -17,4 +17,4 @@ this repo is for my reading notes for the 401 course at ASAC, it will contain al
 | Class 02                                      | [notes](./class-02.md) |
 | Class 03 - FileIO & Exceptions                | [notes](./class-03.md) |
 | Class 04                                      | [notes](./class-04.md) |
-| Class 05                                      | [notes](./class-05-linked-list.md) |
+| Class 05 - Linked List                        | [notes](./class-05-linked-list.md) |
