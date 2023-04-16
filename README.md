@@ -19,3 +19,4 @@ this repo is for my reading notes for the 401 course at ASAC, it will contain al
 | Class 04                                      | [notes](./class-04.md) |
 | Class 05 - Linked List                        | [notes](./class-05-linked-list.md) |
 | Class 06                                      | [notes](./class-06.md) |
+| Class 07                                      | [notes](./class-07.md) |
