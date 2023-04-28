@@ -13,9 +13,9 @@ In general, list comprehensions tend to be more efficient than using for loops t
 ```python
 nums = [1 , 2 , 3 , 4 , 5]
 sq = [x * x for num in nums]  #output: [1, 4 , 9, 16, 25]
+```
 
 ## What is a decorator in Python?
-```
 
 By definition, a decorator is a function that takes another function and extends the behavior of the latter function without explicitly modifying it.
 
