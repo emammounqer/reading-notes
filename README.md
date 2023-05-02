@@ -22,3 +22,4 @@ this repo is for my reading notes for the 401 course at ASAC, it will contain al
 | Class 07                                      | [notes](./class-07.md) |
 | Class 08                                      | [notes](./class-08.md) |
 | Class 09                                      | [notes](./class-09.md) |
+| Class 10 - Stacks and Queues                  | [notes](./class-10.md) |
