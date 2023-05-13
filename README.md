@@ -25,3 +25,4 @@ this repo is for my reading notes for the 401 course at ASAC, it will contain al
 | Class 10 - Stacks and Queues                  | [notes](./class-10.md) |
 | Class 11                                      | [notes](./class-11.md) |
 | Class 12 - Pandas                             | [notes](./class-12.md) |
+| Class 13 - Linear Regressions                 | [notes](./class-13.md) |
