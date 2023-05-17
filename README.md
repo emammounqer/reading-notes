@@ -27,3 +27,4 @@ this repo is for my reading notes for the 401 course at ASAC, it will contain al
 | Class 12 - Pandas                             | [notes](./class-12.md) |
 | Class 13 - Linear Regressions                 | [notes](./class-13.md) |
 | Class 14 - Data Visualization                 | [notes](./class-14.md) |
+| Class 15 - Tree                               | [notes](./class-15.md) |  
