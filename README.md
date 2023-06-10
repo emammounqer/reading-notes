@@ -30,3 +30,4 @@ this repo is for my reading notes for the 401 course at ASAC, it will contain al
 | Class 15 - Tree                               | [notes](./class-15.md) |  
 | Class 16 - Serverless Functions               | [notes](./class-16.md) |
 | Class 17 - Web Scraping                       | [notes](./class-17.md) |
+| Class 26 - Intro to Django                    | [notes](./class-26.md) |
