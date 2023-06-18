@@ -32,3 +32,4 @@ this repo is for my reading notes for the 401 course at ASAC, it will contain al
 | Class 17 - Web Scraping                       | [notes](./class-17.md) |
 | Class 26 - Intro to Django                    | [notes](./class-26.md) |
 | Class 27 - Django Models                      | [notes](./class-27.md) |
+| Class 28 - Django CRUD and Forms              | [notes](./class-28.md) |
