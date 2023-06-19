@@ -33,3 +33,4 @@ this repo is for my reading notes for the 401 course at ASAC, it will contain al
 | Class 26 - Intro to Django                    | [notes](./class-26.md) |
 | Class 27 - Django Models                      | [notes](./class-27.md) |
 | Class 28 - Django CRUD and Forms              | [notes](./class-28.md) |
+| Class 29 - Django Custom User                 | [notes](./class-29.md) |
