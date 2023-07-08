@@ -1,4 +1,4 @@
-# Class 31 - Permissions & Postgresql
+# Class 32 - Permissions & Postgresql
 
 ## What are the key components and purpose of Django Rest Framework (DRF) permissions, and how do they help in securing an API?
 
