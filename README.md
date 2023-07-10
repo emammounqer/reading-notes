@@ -38,3 +38,4 @@ this repo is for my reading notes for the 401 course at ASAC, it will contain al
 | Class 31 - Django REST Framework & Docker     | [notes](./class-31.md) |
 | Class 32 - Permissions & Postgresql           | [notes](./class-32.md) |
 | Class 33 - Authentication & Production Server | [notes](./class-33.md) |
+| Class 34 - API Deployment                     | [notes](./class-34.md) |
