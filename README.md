@@ -39,3 +39,4 @@ this repo is for my reading notes for the 401 course at ASAC, it will contain al
 | Class 32 - Permissions & Postgresql           | [notes](./class-32.md) |
 | Class 33 - Authentication & Production Server | [notes](./class-33.md) |
 | Class 34 - API Deployment                     | [notes](./class-34.md) |
+| Class 35 - Graphs                             | [notes](./class-35.md) |
