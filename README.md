@@ -40,3 +40,4 @@ this repo is for my reading notes for the 401 course at ASAC, it will contain al
 | Class 33 - Authentication & Production Server | [notes](./class-33.md) |
 | Class 34 - API Deployment                     | [notes](./class-34.md) |
 | Class 35 - Graphs                             | [notes](./class-35.md) |
+| Class 36 - DSA Review                         | [notes](./class-36.md) |
