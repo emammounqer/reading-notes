@@ -44,3 +44,4 @@ this repo is for my reading notes for the 401 course at ASAC, it will contain al
 | Class 37 - React I                            | [notes](./class-37.md) |
 | Class 38 - React II                           | [notes](./class-38.md) |
 | Class 39 - React III                          | [notes](./class-39.md) |
+| Class 41 - React IV                           | [notes](./class-41.md) |
